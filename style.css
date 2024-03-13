@@ -1,0 +1,17 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+.banner {
+    background-image: url("download\ \(1\).jpg");
+    padding: 100px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Skills-padding {
+  padding: 40px 0;
+}
+.collapse navbar-collapse {
+  color: rgb(244 1 169 / 65%);
+}
